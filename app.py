@@ -1,3 +1,4 @@
+# KR2: Gavrilov
 import os
 import socket
 
